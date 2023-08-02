@@ -1,0 +1,9 @@
+.orderContainer{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.ts{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 20px;
+}

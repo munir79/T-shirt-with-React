@@ -1,0 +1,9 @@
+.pic img {
+    width: 180px;
+    height: 180px;
+    
+}
+.full{
+    border: 1px solid magenta;
+    border-radius: 20px;
+}
